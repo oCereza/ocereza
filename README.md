@@ -1,16 +1,13 @@
-### Hi there 👋
+## Olá, Eu sou o Anderson Cereza! 👋
 
-<!--
-**oCereza/ocereza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Hoje trabalho como mecânico
+- 🌱 Estudando Programaçao 
+- 📫 Contate-me no email: andersoncereza@hotmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" srcset=""> </a>
+  <a href="https://www.instagram.com/ocereza/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" srcset=""> </a>
+</div>
