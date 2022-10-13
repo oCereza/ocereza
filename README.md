@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Anderson Cereza! 👋
 
 
-- 🔭 Hoje trabalho como mecânico
+- 🔭 Estagiário de desenvolvimento de software na Payly
 - 🌱 Estudando Programaçao 
 - 📫 Contate-me no email: andersoncereza@hotmail.com
 
