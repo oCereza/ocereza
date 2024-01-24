@@ -2,7 +2,7 @@
 
 
 - 🔭 Estagiário de desenvolvimento de software na Payly
-- 🌱 Estudante de Programação | Análise de Desenvolvimento de Sistemas 
+- 🌱 Estudante de Programação | Análise e Desenvolvimento de Sistemas 
 - 📫 Contate-me no email: andersoncereza@hotmail.com
 
 ##
