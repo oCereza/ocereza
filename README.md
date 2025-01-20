@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Anderson Cereza! 👋
 
 
-- 🔭 Estagiário de desenvolvimento de software na Payly
+- 🔭 Desenvolvedor de software
 - 🌱 Estudante de Programação | Análise e Desenvolvimento de Sistemas 
 - 📫 Contate-me no email: andersoncereza@hotmail.com
 
