@@ -1,9 +1,12 @@
 ## Olá, Eu sou o Anderson Cereza! 👋
 
 
-- 🔭 Desenvolvedor de software
-- 🌱 Estudante de Programação | Análise e Desenvolvimento de Sistemas 
+- 🔭 Desenvolvedor de software FullStack
+- 🎓 Formação: Análise e Desenvolvimento de Sistemas
+- 💻 Habilidades: TypeScript, JavaScript, React.js, Angular, Vue.js, Golang, APIs RESTful, Node.js, Express.js, HTML, CSS...
+- 🌍 Idiomas: Português (nativo), Inglês (intermediário)
 - 📫 Contate-me no email: andersoncereza@hotmail.com
+
 
 ##
 
