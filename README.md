@@ -3,7 +3,7 @@
 
 - 🔭 Desenvolvedor de software FullStack
 - 🎓 Formação: Análise e Desenvolvimento de Sistemas
-- 💻 Habilidades: TypeScript, JavaScript, React.js, Angular, Vue.js, Golang, APIs RESTful, Node.js, Express.js, HTML, CSS...
+- 💻 Habilidades: TypeScript, JavaScript, React.js, Node.js, Nest.js, Next.js, Golang, APIs RESTful, Express.js, Angular, HTML, CSS...
 - 🌍 Idiomas: Português (nativo), Inglês (intermediário)
 - 📫 Contate-me no email: andersoncereza@hotmail.com
 
